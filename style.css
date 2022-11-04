@@ -234,13 +234,13 @@ body{
   }
 
   .js-accordion dt::after {
-      content: '⮧';
+      content: '↴';
       margin-left: 10px;
       color: #222;
   }
 
   .js-accordion dt.ativo::after {
-    content: '⮥';
+    content: '⤴';
 }
 
   .js-accordion dd.ativo {
